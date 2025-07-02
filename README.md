@@ -100,11 +100,14 @@ http://localhost:3000
 
 ## 运行截图
 
-### QAnything运行截图
+### QA![b5a78e12adc5091a2c385e7e15e6db3](https://github.com/user-attachments/assets/78aa2074-624c-444c-b14f-1cf621935b56)
+nything运行截图
 [详情看截图文件夹](screenshots/qanything.png)
 
-### WakaTime API集成与展示截图
+### WakaT![fb71d42b9542c741bf47c3fa31de0e9](https://github.com/user-attachments/assets/3da75bd7-513b-489c-8757-917754c4c312)
+ime API集成与展示截图
 [详情看截图文件夹](screenshots/wakatime.png)
 
-### 课程练习作业组织截图
-[详情看截图文件夹](screenshots/exercise.png) 
+###课程练习作业组织截图
+[详情看截![748b6a2de3c73456e02e289cd9f2ea1](https://github.com/user-attachments/assets/d74e3b29-0da2-45ae-a891-8ae73c7e4784)
+图文件夹](screenshots/exercise.png) 
